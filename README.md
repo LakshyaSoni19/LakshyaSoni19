@@ -258,7 +258,7 @@ My primary interests include **Backend Development, Spring Boot, Full Stack Deve
 </td>
 
 <td align="center" width="110">
-<img src="[https://skillicons.dev/icons?i=idea](https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000)" width="50"/><br/>
+<img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" width="50"/><br/>
 <b>Net Beans</b>
 </td>
 
