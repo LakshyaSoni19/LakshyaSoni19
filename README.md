@@ -137,7 +137,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
-**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; • &nbsp;  • &nbsp; Postman**
+**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; Postman**
 
 ---
 
