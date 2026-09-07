@@ -130,24 +130,13 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman" />
-  
-  <img 
-    src="https://cdn.simpleicons.org/openai/white" 
-    height="48" 
-    alt="OpenAI"
-    title="OpenAI / Codex"
-  />
-</p>
 
-<p>
-  <img 
-    src="https://img.shields.io/badge/Antigravity-AI%20Development%20Tool-7C3AED?style=for-the-badge&logoColor=white" 
-    alt="Antigravity" 
-  />
+  <img src="./images/antigravity.png" height="48" alt="Antigravity" />
+
+  <img src="https://cdn.simpleicons.org/openai/white" height="48" alt="OpenAI Codex" />
 </p>
 
 **Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; IntelliJ IDEA &nbsp; • &nbsp; Apache NetBeans &nbsp; • &nbsp; Postman &nbsp; • &nbsp; Antigravity &nbsp; • &nbsp; OpenAI Codex**
-
 ---
 
 ## 💻 Programming Languages
