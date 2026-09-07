@@ -37,11 +37,12 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 - 🔭 Currently building **full-stack and backend projects**
 - 🌱 Exploring **Advanced Spring Boot, Microservices & System Design**
-- 💻 Working with **Java, Spring Boot, React and SQL**
+- 💻 Working with **Java, Spring Boot, React, Angular and SQL**
+- 🐍 Also working with **Python**
 - 🧠 Practicing **DSA and LeetCode problems**
 - ⚙️ Interested in building **clean and scalable applications**
 - 🚀 Goal: Become a strong **Software Engineer and Backend Specialist**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, React or DSA**
+- 💬 Ask me about **Java, Spring Boot, React, Angular or DSA**
 
 <br clear="right"/>
 
@@ -129,13 +130,11 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman" />
-  
-  <img src="https://cdn.simpleicons.org/openai/ffffff" height="48" alt="OpenAI Codex" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Antigravity-AI%20Development%20Tool-7C3AED?style=for-the-badge&logoColor=white" alt="Antigravity" />
-  
+
   <img src="https://img.shields.io/badge/OpenAI-Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
 </p>
 
@@ -152,7 +151,6 @@ I am particularly interested in backend development, REST APIs, clean architectu
 **Java &nbsp; • &nbsp; Python &nbsp; • &nbsp; JavaScript**
 
 ---
----
 
 # 🚀 Featured Projects
 
@@ -162,6 +160,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## 📌 Flow Deck
@@ -172,7 +171,7 @@ A modern project management application focused on organizing projects, tasks, a
 
 `React` `JavaScript` `Spring Boot`
 
-🔗 [View Repository →](https://github.com/LakshyaSoni19)
+🔗 [View My GitHub →](https://github.com/LakshyaSoni19)
 
 </td>
 
@@ -189,6 +188,7 @@ A growing collection of Data Structures and Algorithms problems and coding solut
 🔗 [View My GitHub →](https://github.com/LakshyaSoni19)
 
 </td>
+
 </tr>
 </table>
 
@@ -204,7 +204,7 @@ A growing collection of Data Structures and Algorithms problems and coding solut
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
+
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSoni19&theme=tokyonight&hide_border=true" />
 </p>
 
