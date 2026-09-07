@@ -1,61 +1,82 @@
-<!-- ============================ PROFILE HEADER ============================ -->
+<!-- ========================================================= -->
+<!--                    LAKSHYA SONI PROFILE                  -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Lakshya%20Soni&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=230&section=header&text=Lakshya%20Soni&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Clean+and+Practical+Solutions+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/LakshyaSoni19">
-    <img src="https://img.shields.io/badge/GitHub-LakshyaSoni19-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/lakshya-soni-b283a2280/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://leetcode.com/u/lakshyasoni19/">
-    <img src="https://img.shields.io/badge/LeetCode-lakshyasoni19-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LakshyaSoni19&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-  
-  <img src="https://img.shields.io/github/followers/LakshyaSoni19?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Practical+Solutions+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%8C%B1"
+    alt="Typing SVG"
+  />
 </p>
 
 <br/>
 
-<!-- ============================ ABOUT ME ============================ -->
+<!-- ========================================================= -->
+<!--                       SOCIAL LINKS                        -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+<a href="https://github.com/LakshyaSoni19">
+  <img src="https://img.shields.io/badge/GitHub-LakshyaSoni19-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshya-soni-b283a2280/">
+  <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/lakshyasoni19/">
+  <img src="https://img.shields.io/badge/LeetCode-lakshyasoni19-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LakshyaSoni19&label=Profile%20Views&color=2563eb&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/LakshyaSoni19?label=Followers&style=flat-square&color=7c3aed&logo=github"/>
+
+</p>
+
+---
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img
+  align="right"
+  alt="Coding"
+  width="330"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+/>
 
-I'm **Lakshya Soni**, a passionate **Java Full Stack Developer** who enjoys building practical, scalable, and user-friendly web applications.
+Hi, I'm **Lakshya Soni**, a passionate **Java Full Stack Developer** focused on building clean, scalable, and practical web applications.
 
-I am particularly interested in backend development, REST APIs, clean architecture, and solving real-world problems through technology. Alongside development, I actively practice **Data Structures and Algorithms** to strengthen my problem-solving skills.
+I enjoy working across the full development lifecycle, from designing responsive user interfaces to building robust backend systems and RESTful APIs.
 
-- 🔭 Currently building **Full Stack and Backend Projects**
+My primary interests include **Backend Development, Spring Boot, Full Stack Development, System Design**, and **Problem Solving**.
+
+- 🔭 Currently building **Full Stack & Backend Projects**
 - 🌱 Exploring **Advanced Spring Boot, Microservices & System Design**
 - 💻 Working with **Java, Spring Boot, React, Angular and SQL**
 - 🐍 Also working with **Python**
-- 🧠 Practicing **DSA and LeetCode Problems**
-- ⚙️ Interested in building **Clean and Scalable Applications**
-- 🚀 Goal: Become a strong **Software Engineer and Backend Specialist**
-- 💬 Ask me about **Java, Spring Boot, React, Angular or DSA**
+- 🧠 Strengthening problem-solving skills through **DSA & LeetCode**
+- ⚙️ Interested in **Clean Architecture and Scalable Systems**
+- 🚀 Working toward becoming a strong **Software Engineer & Backend Specialist**
+- 💬 Ask me about **Java, Spring Boot, React, Angular, REST APIs or DSA**
 
 <br clear="right"/>
 
 ---
 
-<!-- ============================ CURRENT FOCUS ============================ -->
-
-# ⚡ What I'm Currently Focused On
+# ⚡ Current Focus
 
 <table>
 <tr>
@@ -66,14 +87,14 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 - Full Stack Web Applications
 - RESTful APIs with Spring Boot
-- Project Management Systems
 - Backend-focused Applications
+- Project Management Systems
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📚 Learning
+### 📚 Learning & Exploring
 
 - Microservices Architecture
 - System Design Fundamentals
@@ -87,155 +108,169 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 ---
 
-<!-- ============================ TECHNOLOGIES ============================ -->
-
 # 🛠️ Technologies & Tools
 
-<p align="center">
-  <i>Technologies and tools I use to build modern, scalable, and efficient applications.</i>
+<p>
+Technologies and tools I use to build modern web applications and backend systems.
 </p>
 
----
+### 🎨 Frontend Development
 
-## 🎨 Frontend Development
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react" />
 </p>
 
----
+### ⚙️ Backend Development
 
-## ⚙️ Backend Development
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,spring,python" />
 </p>
 
----
+### 🗄️ Databases
 
-## 🗄️ Databases
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
----
+### ☁️ Cloud & Deployment
 
-## ☁️ Cloud & Deployment
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
 </p>
 
----
+### 🔧 Tools & IDEs
 
-## 🔧 Tools & IDEs
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman" />
 </p>
 
 ---
 
-## 💻 Programming Languages
+# 🚀 Featured Work
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
-
----
-
-<!-- ============================ PROJECTS ============================ -->
-
-# 🚀 Featured Projects
-
-<p align="center">
-  <i>Some of the projects I'm building and continuously improving.</i>
+<p>
+A selection of projects and repositories I am actively building and improving.
 </p>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 📌 Flow Deck
+## 📌 Flow Deck
 
-A modern **Project Management Application** focused on organizing projects, tasks, teams, and workflows efficiently.
+A modern **Project Management System** designed to help organize projects, tasks, workflows, and team collaboration efficiently.
 
-#### 🛠 Tech Stack
+### 🛠 Tech Stack
 
 `React` `JavaScript` `Spring Boot`
 
-🔗 **[View My GitHub →](https://github.com/LakshyaSoni19)**
+### 🎯 Focus
+
+- Project Management
+- Task Organization
+- Scalable Backend Architecture
+- RESTful APIs
+
+🔗 **[Explore My GitHub →](https://github.com/LakshyaSoni19)**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 DSA & Problem Solving
+## 🧠 DSA & Problem Solving
 
-A growing collection of **Data Structures and Algorithms** problems and coding solutions.
+A growing collection of solutions and implementations focused on improving algorithmic thinking and problem-solving skills.
 
-#### 🛠 Tech Stack
+### 🛠 Focus Areas
 
-`Java` `DSA` `Algorithms`
+`Java` `Data Structures` `Algorithms`
+
+### 🎯 Topics
+
+- Arrays & Strings
+- Linked Lists
+- Trees & Graphs
+- Recursion
+- Dynamic Programming
 
 🔗 **[View My GitHub →](https://github.com/LakshyaSoni19)**
 
 </td>
 
 </tr>
+
 </table>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/LakshyaSoni19?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://github.com/LakshyaSoni19?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
 </p>
 
 ---
-
-<!-- ============================ GITHUB STATS ============================ -->
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSoni19&theme=tokyonight&hide_border=true" />
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
+
+<img
+  width="48%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSoni19&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
-<br/>
-
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSoni19&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img
+  width="42%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSoni19&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
 ---
-
-<!-- ============================ TROPHIES ============================ -->
 
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LakshyaSoni19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=LakshyaSoni19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+/>
+
 </p>
 
 ---
 
-<!-- ============================ CODING ============================ -->
-
 # 💻 Coding & Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/u/lakshyasoni19/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+
+<a href="https://leetcode.com/u/lakshyasoni19/">
+
+<img
+  src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+/>
+
+</a>
+
 </p>
 
-### 🧠 My Problem-Solving Journey
+### 🧠 My Approach
 
 ```text
 Learn → Understand → Practice → Solve → Optimize → Repeat
