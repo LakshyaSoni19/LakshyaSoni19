@@ -12,9 +12,11 @@
   <a href="https://github.com/LakshyaSoni19">
     <img src="https://img.shields.io/badge/GitHub-LakshyaSoni19-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/lakshya-soni-b283a2280/">
     <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://leetcode.com/u/lakshyasoni19/">
     <img src="https://img.shields.io/badge/LeetCode-lakshyasoni19-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -22,6 +24,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LakshyaSoni19&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+  
   <img src="https://img.shields.io/github/followers/LakshyaSoni19?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
 </p>
 
@@ -35,12 +38,12 @@ I'm **Lakshya Soni**, a passionate **Java Full Stack Developer** who enjoys buil
 
 I am particularly interested in backend development, REST APIs, clean architecture, and solving real-world problems through technology. Alongside development, I actively practice **Data Structures and Algorithms** to strengthen my problem-solving skills.
 
-- 🔭 Currently building **full-stack and backend projects**
+- 🔭 Currently building **Full Stack and Backend Projects**
 - 🌱 Exploring **Advanced Spring Boot, Microservices & System Design**
 - 💻 Working with **Java, Spring Boot, React, Angular and SQL**
 - 🐍 Also working with **Python**
-- 🧠 Practicing **DSA and LeetCode problems**
-- ⚙️ Interested in building **clean and scalable applications**
+- 🧠 Practicing **DSA and LeetCode Problems**
+- ⚙️ Interested in building **Clean and Scalable Applications**
 - 🚀 Goal: Become a strong **Software Engineer and Backend Specialist**
 - 💬 Ask me about **Java, Spring Boot, React, Angular or DSA**
 
@@ -52,6 +55,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## 🚀 Building
@@ -59,7 +63,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
 - Full Stack Web Applications
 - RESTful APIs with Spring Boot
 - Project Management Systems
-- Backend-focused applications
+- Backend-focused Applications
 
 </td>
 
@@ -73,6 +77,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
 - Docker & Cloud Deployment
 
 </td>
+
 </tr>
 </table>
 
@@ -130,13 +135,24 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman" />
+  
+  <img 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/default.svg"
+    height="48"
+    alt="Google Antigravity"
+    title="Google Antigravity"
+  />
 
-  <img src="./images/antigravity.png" height="48" alt="Antigravity" />
-
-  <img src="https://cdn.simpleicons.org/openai/white" height="48" alt="OpenAI Codex" />
+  <img 
+    src="https://cdn.simpleicons.org/openai/ffffff"
+    height="48"
+    alt="OpenAI Codex"
+    title="OpenAI Codex"
+  />
 </p>
 
-**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; IntelliJ IDEA &nbsp; • &nbsp; Apache NetBeans &nbsp; • &nbsp; Postman &nbsp; • &nbsp; Antigravity &nbsp; • &nbsp; OpenAI Codex**
+**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; IntelliJ IDEA &nbsp; • &nbsp; Apache NetBeans &nbsp; • &nbsp; Postman &nbsp; • &nbsp; Google Antigravity &nbsp; • &nbsp; OpenAI Codex**
+
 ---
 
 ## 💻 Programming Languages
@@ -158,7 +174,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📌 Flow Deck
 
@@ -168,11 +184,11 @@ A modern project management application focused on organizing projects, tasks, a
 
 `React` `JavaScript` `Spring Boot`
 
-🔗 [View My GitHub →](https://github.com/LakshyaSoni19)
+🔗 **[View My GitHub →](https://github.com/LakshyaSoni19)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧠 DSA & Problem Solving
 
@@ -182,12 +198,14 @@ A growing collection of Data Structures and Algorithms problems and coding solut
 
 `Java` `DSA` `Algorithms`
 
-🔗 [View My GitHub →](https://github.com/LakshyaSoni19)
+🔗 **[View My GitHub →](https://github.com/LakshyaSoni19)**
 
 </td>
 
 </tr>
 </table>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/LakshyaSoni19?tab=repositories">
@@ -200,13 +218,22 @@ A growing collection of Data Structures and Algorithms problems and coding solut
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSoni19&theme=tokyonight&hide_border=true" />
+  <img 
+    width="48%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSoni19&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSoni19&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    width="45%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSoni19&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
