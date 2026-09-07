@@ -139,61 +139,11 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 ## 🔧 Tools & IDEs
 
-<p align="center">
-  <i>Tools I use for development, coding, debugging and collaboration.</i>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=git" width="55" />
-      <br/><br/>
-      <b>Git</b>
-    </td>
-
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=github" width="55" />
-      <br/><br/>
-      <b>GitHub</b>
-    </td>
-
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" />
-      <br/><br/>
-      <b>VS Code</b>
-    </td>
-
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=idea" width="55" />
-      <br/><br/>
-      <b>IntelliJ IDEA</b>
-    </td>
-
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=netbeans" width="55" />
-      <br/><br/>
-      <b>Apache NetBeans</b>
-    </td>
-
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" />
-      <br/><br/>
-      <b>Postman</b>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<p align="center">
-
-────── ⚙️ <b>Build • Debug • Collaborate • Ship</b> ⚙️ ──────
-
-</p>
----
-
+**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; Postman**
 ## 💻 Programming Languages
 
 <p>
