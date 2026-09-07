@@ -6,6 +6,7 @@
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=230&section=header&text=Lakshya%20Soni&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&animation=fadeIn"
     width="100%"
+    alt="Lakshya Soni Banner"
   />
 </p>
 
@@ -25,24 +26,24 @@
 <p align="center">
 
 <a href="https://github.com/LakshyaSoni19">
-  <img src="https://img.shields.io/badge/GitHub-LakshyaSoni19-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-LakshyaSoni19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lakshya-soni-b283a2280/">
-  <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/u/lakshyasoni19/">
-  <img src="https://img.shields.io/badge/LeetCode-lakshyasoni19-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-lakshyasoni19-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=LakshyaSoni19&label=Profile%20Views&color=2563eb&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=LakshyaSoni19&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/LakshyaSoni19?label=Followers&style=flat-square&color=7c3aed&logo=github"/>
+<img src="https://img.shields.io/github/followers/LakshyaSoni19?label=Followers&style=flat-square&color=7c3aed&logo=github" alt="GitHub Followers"/>
 
 </p>
 
@@ -110,39 +111,159 @@ My primary interests include **Backend Development, Spring Boot, Full Stack Deve
 
 # 🛠️ Technologies & Tools
 
-<p>
-Technologies and tools I use to build modern web applications and backend systems.
+<p align="center">
+  <i>Technologies and tools I use to build modern web applications and backend systems.</i>
 </p>
 
-### 🎨 Frontend Development
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react" />
-</p>
+## 🎨 Frontend Development
 
-### ⚙️ Backend Development
+<table align="center">
+<tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python" />
-</p>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
+<b>HTML5</b>
+</td>
 
-### 🗄️ Databases
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br/>
+<b>CSS3</b>
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br/>
+<b>Bootstrap</b>
+</td>
 
-### ☁️ Cloud & Deployment
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=angular" width="50"/><br/>
+<b>Angular</b>
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
-</p>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
+<b>React</b>
+</td>
 
-### 🔧 Tools & IDEs
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman" />
-</p>
+---
+
+## ⚙️ Backend Development
+
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br/>
+<b>Java</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=spring" width="50"/><br/>
+<b>Spring Boot</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+<b>Python</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🗄️ Databases
+
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br/>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/>
+<b>MongoDB</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/><br/>
+<b>AWS</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=azure" width="50"/><br/>
+<b>Azure</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br/>
+<b>Docker</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔧 Tools & IDEs
+
+<table align="center">
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
+<b>Git</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=idea" width="50"/><br/>
+<b>IntelliJ IDEA</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=netbeans" width="50"/><br/>
+<b>NetBeans</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>
+<b>Postman</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -210,6 +331,7 @@ A growing collection of solutions and implementations focused on improving algor
 <a href="https://github.com/LakshyaSoni19?tab=repositories">
   <img
     src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore All Repositories"
   />
 </a>
 
@@ -224,11 +346,13 @@ A growing collection of solutions and implementations focused on improving algor
 <img
   width="48%"
   src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="Lakshya's GitHub Stats"
 />
 
 <img
   width="48%"
   src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSoni19&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </p>
@@ -238,6 +362,7 @@ A growing collection of solutions and implementations focused on improving algor
 <img
   width="42%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSoni19&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
 />
 
 </p>
@@ -250,6 +375,7 @@ A growing collection of solutions and implementations focused on improving algor
 
 <img
   src="https://github-profile-trophy.vercel.app/?username=LakshyaSoni19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+  alt="GitHub Trophies"
 />
 
 </p>
@@ -264,6 +390,7 @@ A growing collection of solutions and implementations focused on improving algor
 
 <img
   src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  alt="LeetCode"
 />
 
 </a>
