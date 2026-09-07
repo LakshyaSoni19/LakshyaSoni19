@@ -134,10 +134,10 @@ I am particularly interested in backend development, REST APIs, clean architectu
 ## 🔧 Tools & IDEs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
-**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; IntelliJ IDEA &nbsp; • &nbsp; Apache NetBeans &nbsp; • &nbsp; Postman**
+**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; IntelliJ IDEA &nbsp; • &nbsp;  • &nbsp; Postman**
 
 ---
 
