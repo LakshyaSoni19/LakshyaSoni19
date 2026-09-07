@@ -12,11 +12,11 @@
   <a href="https://github.com/LakshyaSoni19">
     <img src="https://img.shields.io/badge/GitHub-LakshyaSoni19-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/lakshya-soni-b283a2280/">
     <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="https://leetcode.com/u/lakshyasoni19/">
     <img src="https://img.shields.io/badge/LeetCode-lakshyasoni19-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -24,11 +24,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LakshyaSoni19&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-  
+
   <img src="https://img.shields.io/github/followers/LakshyaSoni19?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
 </p>
 
 <br/>
+
+<!-- ============================ ABOUT ME ============================ -->
 
 # 👨‍💻 About Me
 
@@ -51,6 +53,8 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 ---
 
+<!-- ============================ CURRENT FOCUS ============================ -->
+
 # ⚡ What I'm Currently Focused On
 
 <table>
@@ -58,7 +62,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 <td width="50%" valign="top">
 
-## 🚀 Building
+### 🚀 Building
 
 - Full Stack Web Applications
 - RESTful APIs with Spring Boot
@@ -69,7 +73,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 <td width="50%" valign="top">
 
-## 📚 Learning
+### 📚 Learning
 
 - Microservices Architecture
 - System Design Fundamentals
@@ -83,13 +87,15 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 ---
 
+<!-- ============================ TECHNOLOGIES ============================ -->
+
 # 🛠️ Technologies & Tools
 
 <p align="center">
   <i>Technologies and tools I use to build modern, scalable, and efficient applications.</i>
 </p>
 
----
+<br/>
 
 ## 🎨 Frontend Development
 
@@ -134,10 +140,10 @@ I am particularly interested in backend development, REST APIs, clean architectu
 ## 🔧 Tools & IDEs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman" />
 </p>
 
-**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; Postman**
+**Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; IntelliJ IDEA &nbsp; • &nbsp; Apache NetBeans &nbsp; • &nbsp; Postman**
 
 ---
 
@@ -151,6 +157,8 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 ---
 
+<!-- ============================ FEATURED PROJECTS ============================ -->
+
 # 🚀 Featured Projects
 
 <p align="center">
@@ -158,6 +166,7 @@ I am particularly interested in backend development, REST APIs, clean architectu
 </p>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -166,9 +175,11 @@ I am particularly interested in backend development, REST APIs, clean architectu
 
 A modern project management application focused on organizing projects, tasks, and workflows efficiently.
 
-### Tech Stack
+### ⚙️ Tech Stack
 
 `React` `JavaScript` `Spring Boot`
+
+<br/>
 
 🔗 **[View My GitHub →](https://github.com/LakshyaSoni19)**
 
@@ -180,15 +191,18 @@ A modern project management application focused on organizing projects, tasks, a
 
 A growing collection of Data Structures and Algorithms problems and coding solutions.
 
-### Tech Stack
+### ⚙️ Tech Stack
 
 `Java` `DSA` `Algorithms`
+
+<br/>
 
 🔗 **[View My GitHub →](https://github.com/LakshyaSoni19)**
 
 </td>
 
 </tr>
+
 </table>
 
 <br/>
@@ -201,19 +215,27 @@ A growing collection of Data Structures and Algorithms problems and coding solut
 
 ---
 
+<!-- ============================ GITHUB STATISTICS ============================ -->
+
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSoni19&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LakshyaSoni19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSoni19&theme=tokyonight&hide_border=true" />
+
 </p>
+
+<br/>
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSoni19&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+<!-- ============================ GITHUB ACHIEVEMENTS ============================ -->
 
 # 🏆 GitHub Achievements
 
@@ -222,6 +244,8 @@ A growing collection of Data Structures and Algorithms problems and coding solut
 </p>
 
 ---
+
+<!-- ============================ PROBLEM SOLVING ============================ -->
 
 # 💻 Coding & Problem Solving
 
